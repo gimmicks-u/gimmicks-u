@@ -1,15 +1,15 @@
-# Welcome to my page!
+## 👋🏻 Welcome to my page!
 !! 작성중입니다.
 
-# Project 
-## Cafe-Place-Pick :P <br>
+## 📽️ Project 
+### Cafe-Place-Pick :P <br>
 [github](https://github.com/gimmicks-u/c-p-p_BE)<br>
 [notion](https://shard-riverbed-e01.notion.site/C-P-P-cca45e2972f545c1b847190b35b260cd)<br>
 
-# Currently learning
+## 📚 Currently learning
 `Typescript` `TDD` `Operation System` `Network`
 
-# Contact
+## 📮 Contact
 iksukis8604@gmail.com<br>
 [velog](https://velog.io/@gimmicks_)
 
