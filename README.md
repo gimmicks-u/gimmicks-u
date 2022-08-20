@@ -4,6 +4,8 @@
 ## project 
 Cafe-Place-Pick :P (CPP)
 
+## Currently Studying
+`Typescript` `TDD` `Operation System` `Network`
 
 
 <!--
