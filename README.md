@@ -10,7 +10,7 @@ Cafe-Place-Pick :P (CPP) <br><br>
 `Typescript` `TDD` `Operation System` `Network`
 
 ## Contact
-iksukis8604@gmail.com
+iksukis8604@gmail.com<br>
 [velog](https://velog.io/@gimmicks_)
 
 
