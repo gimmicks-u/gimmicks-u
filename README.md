@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to my page!
 !! 작성중입니다.
 
 ## Project 
@@ -6,8 +6,12 @@ Cafe-Place-Pick :P (CPP) <br><br>
 [github](https://github.com/gimmicks-u/c-p-p_BE)<br>
 [notion](https://shard-riverbed-e01.notion.site/C-P-P-cca45e2972f545c1b847190b35b260cd)<br>
 
-## Currently Studying
+## Currently learning
 `Typescript` `TDD` `Operation System` `Network`
+
+## Contact
+iksukis8604@gmail.com
+[velog](https://velog.io/@gimmicks_)
 
 
 <!--
