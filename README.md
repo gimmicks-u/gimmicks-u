@@ -3,6 +3,8 @@
 
 ## project 
 Cafe-Place-Pick :P (CPP)
+[github](https://github.com/gimmicks-u/c-p-p_BE)
+[notion](https://shard-riverbed-e01.notion.site/C-P-P-cca45e2972f545c1b847190b35b260cd)
 
 ## Currently Studying
 `Typescript` `TDD` `Operation System` `Network`
