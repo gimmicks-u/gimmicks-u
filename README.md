@@ -1,4 +1,10 @@
 ### Hi there 👋
+!! 작성중입니다.
+
+## project 
+Cafe-Place-Pick :P (CPP)
+
+
 
 <!--
 **gimmicks-u/gimmicks-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
