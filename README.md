@@ -10,6 +10,7 @@
 `Typescript` `TDD` `Operation System` `Network`
 
 ## 📮 Contact
+iksukis8604@gmail.com
 [velog](https://velog.io/@gimmicks_)
 
 
