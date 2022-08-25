@@ -10,8 +10,8 @@
 `Typescript` `TDD` `Operation System` `Network`
 
 ## 📮 Contact
-[email](iksukis8604@gmail.com) </br>
-[velog](https://velog.io/@gimmicks_)
+[Email](iksukis8604@gmail.com) </br>
+[Velog](https://velog.io/@gimmicks_)
 
 
 <!--
