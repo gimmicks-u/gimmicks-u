@@ -1,5 +1,5 @@
 ## 👋🏻 Welcome to my page!
-!! 작성중입니다.
+
 
 ## 📽️ Project 
 ### Cafe-Place-Pick :P <br>
