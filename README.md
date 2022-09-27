@@ -7,7 +7,7 @@
 [notion](https://shard-riverbed-e01.notion.site/C-P-P-cca45e2972f545c1b847190b35b260cd)<br>
 
 ## 📚 Currently learning
-`Typescript` `TDD` `Operation System` `Network`
+`Typescript` `Operation System` `Network` `Data Structures`
 
 ## 📮 Contact
 [Email](iksukis8604@gmail.com) </br>
