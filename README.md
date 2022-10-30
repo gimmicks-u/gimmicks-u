@@ -10,7 +10,7 @@
 `Typescript` `Operation System` `Network` `Data Structures`
 
 ## 📮 Contact
-[Email](iksukis8604@gmail.com) </br>
+iksukis8604@gmail.com </br>
 [Velog](https://velog.io/@gimmicks_)
 
 
